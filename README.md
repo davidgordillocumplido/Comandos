@@ -18,3 +18,9 @@ lshw-gui es un comando parecido al lshw pero en cambio este comando se busca la 
 Es una aplicación gratuita que nos muestra información sobre el hardware de nuestro equipo. Es un programa muy ligero (ocupa tan solo 862 KB) y no requiere instalación, simplemente se copia al disco duro y se ejecuta el archivo sin instalar nada adicional y sin dejar rastro en el registro de Windows
 
 <img src="https://www.tuexperto.com/wp-content/uploads/2011/10/CPU-Z-01.jpg" />
+
+## Speecy
+
+Muestra al usuario especificaciones acerca del hardware y el software de su equipo.
+
+<img src="http://www.cleartechinfo.com/wp-content/uploads/2014/07/Speccy-Lookup-Info.jpg" />
